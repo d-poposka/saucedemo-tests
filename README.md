@@ -10,7 +10,9 @@ Maven – This project uses Maven for dependency management and test execution. 
 WebDriverManager – WebDriverManager is utilized in this project to automatically manage the necessary browser drivers (e.g., ChromeDriver), so there is no need for manual configuration.
 
 Setting Up the Test Environment:
-Clone the Repository: Start by cloning the repository on your local machine. Clone it with the following command:
+Clone the Repository: 
+Start by cloning the repository on your local machine. 
+Clone it with the following command:
 git clone https://github.com/d-poposka/saucedemo-tests.git
 
 Install Dependencies: Once you have the repository in your system, navigate to the project directory and install all the dependencies by running:
